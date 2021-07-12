@@ -1,0 +1,5 @@
+PortalLogin:
+  test_portal_login:
+    url : "https://tendercuts.in/"
+    username : "OTQ0MjYxNDQwNQ=="
+    password : "QWJjZGVmZ2hAMTE="
